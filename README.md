@@ -4,6 +4,9 @@ AI Chatbot Mentor is a **domain-specific AI learning assistant** built with Stre
 It provides **focused mentoring** by answering questions **only within a selected module**, avoiding irrelevant or misleading responses.
 
 ---
+## AI mentor Application UI
+<img width="1419" height="693" alt="ai mentor interface snapshot" src="https://github.com/user-attachments/assets/29e22230-25d3-43e2-9870-f6555e378804" />
+
 
 ## ✨ Features
 
