@@ -64,7 +64,8 @@ hf=YOUR_HUGGINGFACE_API_KEY
 ```
 
 ---
-
+## Demo Video
+### [video](https://youtu.be/v59zJBFJB0Y)
 ## 🎯 Purpose
 
 This project demonstrates how to build **controlled, reliable AI mentor systems** with real-world features like chat history export and strict domain control.
